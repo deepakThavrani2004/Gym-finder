@@ -6,7 +6,7 @@ import './App.css';
 
 
 import ExerciseDetail from './Pages/ExerciseDetail';
-import Home from './pages/Home';
+import Home from './Pages/Home';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 
