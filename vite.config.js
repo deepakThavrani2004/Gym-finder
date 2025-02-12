@@ -12,7 +12,7 @@ export default defineConfig({
   },
   build: {
     rollupOptions: {
-      input: "src/index.jsx", 
+      input: "index.html",
     },
   },
 });
